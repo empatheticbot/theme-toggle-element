@@ -1,4 +1,6 @@
 {
+  "apexskier.eslint.config.eslintConfigPath" : ".eslintrc.json",
+  "apexskier.eslint.config.eslintPath" : "node_modules\/eslint\/bin\/eslint.js",
   "editor.default_syntax" : "typescript",
   "workspace.color" : 14,
   "workspace.name" : "🌗 Theme Toggle Element"
